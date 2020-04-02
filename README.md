@@ -2,7 +2,7 @@
 
 This is the companion repo for [*Azure Cognitive Services Succinctly*](https://www.syncfusion.com/ebooks) by Ed Freitas. Published by Syncfusion.
 
-[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Azure-Cognitive-Services-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks/nuget-in-house-succinctly)
+[![cover](https://github.com/SyncfusionSuccinctlyE-Books/Azure-Cognitive-Services-Succinctly/blob/master/cover.png)](https://www.syncfusion.com/ebooks)
 
 ## Looking for more _Succinctly_ titles?
 
